@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Jeong%20MunGyeong&fontSize=50)   
 <div align="center"> 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Jeong%20MunGyeong&fontSize=50)   
+
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -25,7 +26,10 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <br />
-</div>
+
 
 ![mungyeong's github stats](https://github-readme-stats.vercel.app/api?username=mungyeong&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungyeong&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac mungyeong Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeong5961)](https://solved.ac/gyeong5961/)
+  
+</div>
