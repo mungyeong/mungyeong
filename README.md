@@ -27,20 +27,14 @@
  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
  <br />
-
-</div>
-
-<div align="center"> 
  
-![mungyeong's github stats](https://github-readme-stats.vercel.app/api?username=mungyeong&show_icons=true&theme=dark)
+ ![mungyeong's github stats](https://github-readme-stats.vercel.app/api?username=mungyeong&show_icons=true&count_private=true&hide_border=true)
+ <br />
+ 
+ [![Solved.ac mungyeong Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeong5961)](https://solved.ac/gyeong5961/)
+ <br />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungyeong&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
+ <br />
  
 </div>
-
-
-<div align="center"> 
-
-[![Solved.ac mungyeong Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeong5961)](https://solved.ac/gyeong5961/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungyeong&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-  
-
