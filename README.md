@@ -31,9 +31,6 @@
  ![mungyeong's github stats](https://github-readme-stats.vercel.app/api?username=mungyeong&show_icons=true&count_private=true&hide_border=true)
  <br />
  
- [![Solved.ac mungyeong Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeong5961)](https://solved.ac/profile/gyeong5961/)
- <br />
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungyeong&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
  <br />
  
